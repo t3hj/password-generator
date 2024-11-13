@@ -15,7 +15,7 @@ A simple and customizable password generator with a graphical user interface (GU
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/password-generator.git
+    git clone https://github.com/t3hj/password-generator.git
     cd password-generator
     ```
 
