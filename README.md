@@ -78,3 +78,13 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - Inspired by various password generator tools and tutorials.
 - Built with Python and `tkinter`.
+
+
+## Browser demo
+
+Hosted demo: https://t3hj.github.io/portfolio-website/demos/password-generator/
+
+The `web/` directory contains a browser adaptation of this desktop project. The original implementation remains unchanged. This demo focuses on the core interactive features; it does not run the Python/Java desktop runtime.
+
+Serve `web/` with a static web server for local preview. The hosted copy is deployed through the portfolio's existing GitHub Pages site; enabling Pages on this repository is optional.
+
